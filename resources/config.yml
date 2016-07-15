@@ -1,2 +1,11 @@
 ---
+#AdvancedKits Config
+
+#Sorry just 5 kits available :/
+# "\n" -> Next line.
+#Messages
+custom_message: "1. Awesome Kit -> 10 steak, and 5 diamonds! \n2. More Awesome Kit -> 20 steak, 15 diamonds!"
+
+#Kits
+kit1name: "Awesome Kit"
 ...
