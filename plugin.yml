@@ -1,1 +1,10 @@
-
+name: AdvancedKits
+main: AdvancedKits\Main
+version: 1.0.0
+api: 2.0.0
+commands:
+ advancedkits:
+  description: "AdvancedKits Info & Commands!"
+  usage: "/advancedkits"
+  permission: "ak.command"
+  aliases: [ak, advancedk, akits]
