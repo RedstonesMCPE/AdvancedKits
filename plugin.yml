@@ -1,7 +1,7 @@
 name: AdvancedKits
 main: AdvancedKits\Main
 version: 1.0.0
-api: 2.0.0
+api: 3.0.0-APLHA10
 commands:
  advancedkits:
   description: "AdvancedKits Info & Commands!"
